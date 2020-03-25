@@ -1,1 +1,1 @@
-
+<iframe src="https://editor.giscloud.com/rest/1/maps/1211248/render.iframe?bound=1573074.0421089232,223807.6188189946,2042703.1438930444,404199.00557200983&toolbar=true&popups=true&layerlist=true" width="600" height="400" frameborder="0"></iframe>
